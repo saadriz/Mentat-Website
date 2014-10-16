@@ -222,7 +222,7 @@ p {
     margin-top: 20px;
     margin-bottom: 0;
     font-size: 14px;
-    line-height: 23px;
+    line-height: 30px;
 }
 .white {
     color: #FFF !important;
@@ -430,7 +430,7 @@ p {
 }
 .header-center h1 {
     font-weight: 300;
-    font-size: 80px;
+    font-size: 70px;
     text-transform: uppercase;
 }
 .header-center h1 span {
